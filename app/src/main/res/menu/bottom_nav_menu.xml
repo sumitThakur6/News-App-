@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:title="Breaking News"
+        android:icon="@drawable/baseline_newspaper_24"
+        android:id="@+id/breakingNewsFragment"
+        />
+
+    <item
+        android:title="Saved News"
+        android:icon="@drawable/baseline_save_24"
+        android:id="@+id/savedNewsFragment"
+        />
+
+    <item
+        android:title="Search News"
+        android:icon="@drawable/baseline_search_24"
+        android:id="@+id/searchNewsFragment"
+        />
+
+    <item
+        android:title="Category "
+        android:icon="@drawable/baseline_category_24"
+        android:id="@+id/categoryFragment"
+        />
+
+</menu>
